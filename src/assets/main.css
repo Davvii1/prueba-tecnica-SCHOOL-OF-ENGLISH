@@ -1,0 +1,12 @@
+@import './base.css';
+
+#app {
+  margin: 0 auto;
+  font-weight: normal;
+}
+
+@media (hover: hover) {
+}
+
+@media (min-width: 1024px) {
+}
